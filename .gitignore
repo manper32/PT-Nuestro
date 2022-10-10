@@ -1,0 +1,4 @@
+#variables de entorno
+UMC/.env
+#DB
+UMC/db.sqlite3
